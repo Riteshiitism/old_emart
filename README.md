@@ -11,7 +11,7 @@ MERN E-commerce website
 ## Installation process
 1. #### clone the repo using this command
     ```bash
-    git clone https://github.com/Ni2-1911/E-mart.git
+    git clone https://github.com/Riteshiitism/EMart.git
     ```
 2. #### install npm packages
     1. install backend packages
